@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="N:\lazarus\fpc\3.0.0\bin\x86_64-win64\fpc.exe" Date="1231859847"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\woipot\Documents\lazarus\gorner\antigorner real\lib\x86_64-win64&quot; &quot;-FuC:\Users\woipot\Documents\lazarus\gorner\antigorner real\&quot; &quot;-FUC:\Users\woipot\Documents\lazarus\gorner\antigorner real\lib\x86_64-win64\&quot; antigor.pas"/>
+</CONFIG>
